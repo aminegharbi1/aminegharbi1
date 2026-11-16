@@ -2,6 +2,8 @@
 
 **AI & Data Engineering Student @ EMSI Casablanca** (4th year, Computer Science – Artificial Intelligence & Data)
 
+🌐 **Portfolio: [aminegharbi.vercel.app](https://aminegharbi.vercel.app)**
+
 I build complete applications and integrate intelligent features into them — from the ML model and the API to the user interface.
 
 - 🔭 Focus: Machine Learning, Generative AI (RAG, LLMs), Full-Stack Development
@@ -44,4 +46,4 @@ Three-role platform (client, agent, admin) with full action traceability.
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-amine-gharbi1)
+[Portfolio](https://aminegharbi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mohamed-amine-gharbi1)
